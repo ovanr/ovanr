@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<!--
-**ovanr/ovanr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a BSc student in the [University of Cyprus](https://www.cs.ucy.ac.cy/).
+My interests are mostly Functional Programming (in Haskell) and Computer Security
 
 Here are some ideas to get you started:
 
